@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#FFFFFF"/>
+	<title>PWA-Basic</title>
+  <link rel="canonical" href="https://i334115.iris.fhict.nl/progressive-web-app-basic/"/>
+	<link rel="stylesheet" href="styles/lemonade.min.css">
+	<link rel="stylesheet" href="styles/style.css">
+	<link rel="manifest" href="manifest.json">
+	<script src="scripts/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript">
+  /* service worker registration */
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js') 
+    .then(function() {
+      console.log('SW registered');
+    })
+    .catch(function() {
+      console.log('SW not working');
+    });
+    }
+  </script>
+</head>
+<body>
+  <nav>
+     <ul>
+      <h2>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">App</a></li>
+       <li><a href="#">Contact</a></li>
+     </h2>
+   </ul>
+ </nav>
+
+<script src="scripts/script.js"></script>
+
+
+
+</body>
+</html>
