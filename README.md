@@ -7,13 +7,13 @@ URL to [demo](http://i334115.iris.fhict.nl/progressive-web-app-basic) (coming so
 ## installation
 There are two options to install the basic web app. 
 
-### Mogelijkheid 1: GitHub clone
+### GitHub clone
 
 ```
  $ git clone https://github.com/paolo-pg/library
  ```
 
- or download and unpack the zip file.
+ possibility two is downloading and unpacking the zip file.
 
  Important: change the file locations to your own.
  For example in service-worker.js:
@@ -23,3 +23,7 @@ There are two options to install the basic web app.
     '/your-location', 
     '/your-location/index.html',  
 ``` 
+
+## references & usefull links
+This PWA is made using the following frameworks or libraries:
+[SW-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox)
