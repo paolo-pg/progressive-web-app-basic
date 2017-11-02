@@ -10,7 +10,7 @@ There are two options to install the basic web app.
 ### GitHub clone
 
 ```
- $ git clone https://github.com/paolo-pg/library
+ $ git clone https://github.com/paolo-pg/progressive-web-app-basic
  ```
 
  possibility two is downloading and unpacking the zip file.
@@ -25,5 +25,5 @@ There are two options to install the basic web app.
 ``` 
 
 ## references & usefull links
-This PWA is made using the following frameworks or libraries:
+This PWA has been made using the following frameworks or libraries:
 [SW-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox)
