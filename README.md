@@ -24,6 +24,10 @@ There are two options to install the basic web app.
     '/your-location/index.html',  
 ``` 
 
+## manual
+Start building your own basic progressive web app from scratch with this manual.
+[manual](https://paolo-pg.github.io/) 
+
 ## references & usefull links
 This PWA has been made using the following frameworks or libraries:
 [SW-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox)
