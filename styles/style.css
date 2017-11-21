@@ -11,12 +11,12 @@
 		background: #FDFDFD;
 	}
 
-	a:link {
+	nav a:link {
 		color: #000;
 		text-decoration: none;
 	}
 
-	a:visited {
+	nav a:visited {
 		color: #000;
 		text-decoration: none;
 	}
@@ -27,7 +27,7 @@
 		margin-bottom: 30px;
 	}
 
-	nav h2 {
+	nav h3 {
 		font-weight: 500;
 		color: #fff;
 	}
@@ -41,5 +41,9 @@
 		list-style-type: none;
 		display: inline;
 		padding-right: 10px;
+	}
+
+	.content {
+		text-align: center;
 	}
 

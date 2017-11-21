@@ -1,8 +1,10 @@
 # progressive-web-app-basic
 A basic PWA verified by Lighthouse, PWA score of 100.
+![alt text](https://i334115.hera.fhict.nl/images/lighthouse.png)
 
 ## demo
 URL to [demo](https://i334115.hera.fhict.nl/).
+Naturally the demo is empty because this is a basic verified PWA so it's not about the functionality of this PWA itself.
 
 ## installation
 There are two options to install the basic web app. 
