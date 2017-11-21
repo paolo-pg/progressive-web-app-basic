@@ -1,8 +1,8 @@
 # progressive-web-app-basic
-A basic PWA verified by Lighthouse, currently PWA score of 91.
+A basic PWA verified by Lighthouse, PWA score of 100.
 
 ## demo
-URL to [demo](http://i334115.iris.fhict.nl/progressive-web-app-basic) (coming soon).
+URL to [demo](https://i334115.hera.fhict.nl/).
 
 ## installation
 There are two options to install the basic web app. 
@@ -25,8 +25,7 @@ There are two options to install the basic web app.
 ``` 
 
 ## manual
-Start building your own basic progressive web app from scratch with this manual.
-[manual](https://paolo-pg.github.io/) 
+Start building your own basic progressive web app from scratch with this [manual](https://paolo-pg.github.io/). 
 
 ## references & usefull links
 This PWA has been made using the following frameworks or libraries:
